@@ -4,7 +4,7 @@
   "dependencies": {
     "colors": "^1.4.0",
     "tor-request": "^3.1.0",
-    "ws": "^7.2.1",
+    "ws": "^8.17.1",
     "zombie": "^6.1.4"
   },
   "devDependencies": {
